@@ -1,0 +1,25 @@
+{
+  "name": "generator-wp-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "files": [
+    "app",
+    "router"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trendsoft/generator-wp-plugin.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "hadi <hadi@trendsoft.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trendsoft/generator-wp-plugin/issues"
+  },
+  "homepage": "https://github.com/trendsoft/generator-wp-plugin#readme",
+  "dependencies": {
+    "yeoman-generator": "^1.1.1"
+  }
+}
